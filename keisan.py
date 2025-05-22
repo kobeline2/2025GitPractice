@@ -8,3 +8,6 @@ def hiku(a, b):
 
 def kakeru(a, b):
     return a*b
+
+def waru(a, b):
+    return a/b
