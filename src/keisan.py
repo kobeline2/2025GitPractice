@@ -1,7 +1,7 @@
 import math 
 
 def add(a, b):
-    return a + b + 1
+    return a + b + 3*a
 
 def hiku(a, b):
     return a-b
